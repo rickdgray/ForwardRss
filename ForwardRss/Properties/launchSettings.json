@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ForwardRss": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
